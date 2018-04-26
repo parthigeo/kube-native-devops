@@ -36,4 +36,4 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 > parthi.geo@gmail.com
 
 ___
-> Tool Authors: Google Inc, OSS maintainers & contributors mentioned in above References
+> Tool Authors: Google Inc, OSS maintainers & contributors mentioned in above references
