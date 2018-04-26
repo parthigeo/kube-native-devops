@@ -1,8 +1,8 @@
 # Kubernetes native container tool set
-This is getting started guide to wide variety of container tools for building Kubernetes application.
+This is getting started guide to wide variety of container tools for building Kubernetes application. It aims to onboard new developer to Kubernetes application development, improve their productivity and smoothen adoption curve for DevOps practitioners.
 
 # Focus
-This guide focuses on interesting and emerging Kubernetes native tools that improves developer experience and solves real problem for DevOps practitioners.
+ This guide focuses on emerging and useful Kubernetes native open source tools that significantly improves developer experience and solves real world problem for DevOps practitioners.
 
 # Target audience
 Target audience for this guide is primarily developer & DevOps community. Developers who wants to employ simple, repeatable & yet flexible tool for building and deploying Kubernetes applications. DevOps practitioners who wants to understand and adopt container tools for large enterprises.
