@@ -15,6 +15,8 @@ Target audience for this guide is primarily developer & DevOps community. Develo
   * Continuous remote application build, push and deploy
   * Continuous remote application development using Helm
 * [`Kaniko`](https://github.com/GoogleContainerTools/kaniko "work in progress")
+  * Build container images inside a container (*WIP*)
+  * Build container images inside Kubernetes cluster (*WIP*)
 
 # Common prerequisites
 * `git` - to clone appropriate repo locally
