@@ -14,8 +14,7 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 * [`Skaffold remote`](https://github.com/parthigeo/skafdev "skaffold remote")
   * Continuous remote application build, push and deploy
   * Continuous remote application development using Helm
-* [`Koniko`]("work in progress")
-
+* [`Kaniko`](https://github.com/GoogleContainerTools/kaniko "work in progress")
 
 # Common prerequisites
 * `git` - to clone appropriate repo locally
