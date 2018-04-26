@@ -8,11 +8,17 @@ This guide focuses on interesting and emerging Kubernetes native tools that impr
 Target audience for this guide is primarily developer & DevOps community. Developers who wants to employ simple, repeatable & yet flexible tool for building and deploying Kubernetes applications. DevOps practitioners who wants to understand and adopt container tools for large enterprises.
 
 # Index
-* [`Skaffold local`](https://github.com/parthigeo/skafdev "skaffold local") -  local build and deploy loop
-* [`Skaffold remote`](https://github.com/parthigeo/skafdev "skaffold remote") - remote build, push and deploy loop
+* [`Skaffold local`](https://github.com/parthigeo/skafdev "skaffold local")
+   * Continuous local application build and deploy
+   * Continuous local application build and deploy with Kubernetes manifest
+* [`Skaffold remote`](https://github.com/parthigeo/skafdev "skaffold remote")
+  * Continuous remote application build, push and deploy
+  * Continuous remote application development using Helm
+* [`Koniko`]("work in progress")
+
 
 # Common prerequisites
-* `git` - to clone appropriate repo
+* `git` - to clone appropriate repo locally
 * `Kubernetes` - local or remote cluster for application deployment
 * `Docker` - Linux container for building or running application locally
 
