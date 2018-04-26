@@ -20,8 +20,8 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 
 # Common prerequisites
 * `git` - to clone appropriate repo locally
-* `Kubernetes` - local or remote cluster for application deployment
-* `Docker` - Linux container for building or running application locally
+* `kubernetes` - local or remote cluster for application deployment
+* `docker` - Linux container for building or running application locally
 
 # References
 > Placeholder
