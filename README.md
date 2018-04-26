@@ -8,8 +8,8 @@ This guide focuses on interesting and emerging Kubernetes native tools that impr
 Target audience for this guide is primarily developer & DevOps community. Developers who wants to employ simple, repeatable & yet flexible tool for building and deploying applications for Kubernetes. DevOps practitioners who wants to understand and adopt emerging OSS tools for large enterprises.
 
 # Container tool Index
-* [`Skaffold local`](https://github.com/parthigeo/skafdev skaffold local) - *local* build and deploy loop
-* [`Skaffold remote`](https://github.com/parthigeo/skafdev remote) - *remote* build, push and deploy loop
+* [`Skaffold local`](https://github.com/parthigeo/skafdev "skaffold local") - *local* build and deploy loop
+* [`Skaffold remote`](https://github.com/parthigeo/skafdev "skaffold remote") - *remote* build, push and deploy loop
 
 # Common prerequisites
 * Clone appropriate repo
@@ -21,7 +21,7 @@ References
 
 # Credits
 > Guide Author: Parthiban Srinivasan, Cloud Solution Architect @ Capgemini NA Inc
-Certified Google Cloud Architect & AWS CSA
+> Certified Google Cloud Architect & AWS CSA
 
 ___
 > Tool Author:
