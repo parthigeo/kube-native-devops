@@ -12,7 +12,7 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 * `kubernetes` - local or remote cluster for application deployment
 * `docker` - Linux container for building or running application locally
 
-# Index
+# Guide Index
 * How to build & deploy application locally and iteratively?
   * [`Skaffold dev`](https://github.com/parthigeo/skafdev "skaffold local development")
 * How to build, push and deploy application remotely?
@@ -25,10 +25,12 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 
 # References
 > [`skaffold`](https://github.com/GoogleContainerTools/skaffold "skaffold github page")
+
 > [`kaniko`](https://github.com/GoogleContainerTools/kaniko "kaniko github page")
 
 # Credits
 > Guide Author: Parthiban Srinivasan, Cloud Solution Architect @ Capgemini NA Inc.
+
 > Certified Google Cloud Architect & AWS CSA
 
 ___
