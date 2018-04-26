@@ -32,7 +32,8 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 > Guide Author: Parthiban Srinivasan, Cloud Solution Architect @ Capgemini NA Inc, Atlanta, USA
 
 > Certified Google Cloud Architect & AWS CSA
-> @ parthi.geo@gmail.com
+
+> parthi.geo@gmail.com
 
 ___
 > Tool Authors: Google Inc, OSS maintainers & contributors mentioned in above References
