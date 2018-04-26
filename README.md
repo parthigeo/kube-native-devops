@@ -29,11 +29,10 @@ Target audience for this guide is primarily developer & DevOps community. Develo
 > [`kaniko`](https://github.com/GoogleContainerTools/kaniko "kaniko github page")
 
 # Credits
-> Guide Author: Parthiban Srinivasan, Cloud Solution Architect @ Capgemini NA Inc.
+> Guide Author: Parthiban Srinivasan, Cloud Solution Architect @ Capgemini NA Inc, Atlanta, USA
 
 > Certified Google Cloud Architect & AWS CSA
+> @ parthi.geo@gmail.com
 
 ___
-> Tool Author:
-> Google Inc  
->*Skaffold* OSS [maintainers](https://github.com/GoogleContainerTools/skaffold/blob/master/MAINTAINERS)
+> Tool Authors: Google Inc, OSS maintainers & contributors mentioned in above References
